@@ -1,0 +1,4 @@
+1. python3 main.py
+2. Verzeichniss für outputFile eingeben oder leer lassen. Leer generiert eine Datei mit Unix Timestamp im gleichen Verzeichniss in dem auch die Python Files liegen.
+3. Anzahl der maximalen Accounts für export wählen. Maximal 100000 Accounts.
+4. Push Enter and Smile :)
